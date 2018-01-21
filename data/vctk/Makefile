@@ -1,5 +1,5 @@
 URL:=http://homepages.inf.ed.ac.uk/jyamagis/release/VCTK-Corpus.tar.gz
-
+URL:=/Users/polariss710/Downloads
 # ----------------------------------------------------------------------------
 # load corpus
 
